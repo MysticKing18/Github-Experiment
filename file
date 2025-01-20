@@ -1,1 +1,11 @@
-Experiment 1 for Github 
+import java.util.*;
+
+public static void main (main(String[]args)){
+    Scanner scn = new Scanner(System.in);
+
+    System.out.println("Welcome To Github");
+    System.out.println();
+
+
+
+}
